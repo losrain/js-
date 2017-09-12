@@ -1,2 +1,1 @@
-# js-
-各种js插件
+﻿jquery.qrcode.min.js这个js插件有点特别，支持生成logo
